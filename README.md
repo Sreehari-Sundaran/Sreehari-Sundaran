@@ -26,7 +26,7 @@ I'm Sreehari S., a passionate Data Analyst with an array of skills in SQL, MS Ex
 
 <h3>🖇️Projects</h3>
 
-<li>Check out my Project Portfolio:
+<li>Check out my Project Portfolio:<a href="https://github.com/lionheartsss1997/Project_Portfolio"> My PROJECTS</a><br></li>
 
 <h3>🏆Achievements</h3>
 <li>Best Innovative Startup Idea Award (Kerala Startup Mission)
