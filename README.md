@@ -14,7 +14,7 @@ I'm Sreehari S., a passionate Data Analyst with an array of skills in SQL, MS Ex
 <li>Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
 
 
-⚙️Skills
+<h3>⚙️Skills</h3>
 
 <li>Language: SQL, Python
 
@@ -24,15 +24,17 @@ I'm Sreehari S., a passionate Data Analyst with an array of skills in SQL, MS Ex
 
 <li>Spreadsheet: MS Excel
 
-🖇️Projects
+<h3>🖇️Projects</h3>
 
 <li>Check out my Project Portfolio:
 
-🏆Achievements
+<h3>🏆Achievements</h3>
 <li>Best Innovative Startup Idea Award (Kerala Startup Mission)
 
-🕸️Let's Connect
-
-https://www.linkedin.com/in/sreeharisundaran97
+<h3>🕸️Let's Connect</h3>
+<ul>
+ <li><a href="https://www.linkedin.com/in/
+sreeharisundaran97/">Linkedln | SREEHARI S</a><br></li>
+</ul>
 
 
