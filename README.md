@@ -34,7 +34,7 @@ I'm Sreehari S., a passionate Data Analyst with an array of skills in SQL, MS Ex
 <h3>🕸️Let's Connect</h3>
 <ul>
  <li><a href="https://www.linkedin.com/in/
-sreeharisundaran97/">Linkedln | SREEHARI S</a><br></li>
+sreeharisundaran97/">Linkedln</a><br></li>
 </ul>
 
 
