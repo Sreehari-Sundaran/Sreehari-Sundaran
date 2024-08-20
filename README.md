@@ -17,7 +17,7 @@ I'm **Sreehari S.**, a passionate Data Analyst with an array of skills in **SQL,
 
 <li>Language: SQL, Python
 
-<li>Database: PostgreSQL, MySQL
+<li>Database: PostgreSQL, MS SQL,MySQL
 
 <li>Visualization: Power BI, Tableau
 
