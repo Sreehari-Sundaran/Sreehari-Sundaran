@@ -28,7 +28,7 @@ I'm **Sreehari S.**, a passionate Data Analyst with an array of skills in **SQL,
 **<li>Check out my Project Portfolio**:<a href="https://github.com/lionheartsss1997/Project_Portfolio"> My PROJECTS</a><br></li>
 
 <h3> :red_envelope: Certifications</h3>
-<li><a href="https://www.hackerrank.com/certificates/iframe/e3b77e5e7430">HackerRank Python (Basic) Certificate</a><br></li>
+<li><a href="https://www.hackerrank.com/certificates/e3b77e5e7430">HackerRank Python (Basic) Certificate</a><br></li>
 
 <h3>🏆Achievements</h3>
 <li>Best Innovative Startup Idea Award (Kerala Startup Mission)
