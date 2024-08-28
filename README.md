@@ -33,6 +33,9 @@ I'm **Sreehari S.**, a passionate Data Analyst with an array of skills in **SQL,
 <h3>🏆Achievements</h3>
 <li>Best Innovative Startup Idea Award (Kerala Startup Mission)
 
+<h3>📚Learning Resources</h3>
+<li><a href="https://github.com/lionheartsss1997/Statistics_for_data_science">Statistics for Data Science</a><br></li>
+
 <h3>🕸️Let's Connect</h3>
 <ul>
  <li><a href="https://www.linkedin.com/in/
