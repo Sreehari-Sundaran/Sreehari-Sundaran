@@ -1,5 +1,5 @@
 # Hi there  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> Introducing myself,
-![Beige Modern Elegant Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/f47e03c6-5d53-46bf-8607-cc28441b94d6)
+![Beige Modern Elegant Personal LinkedIn Banner (2)](https://github.com/lionheartsss1997/lionheartsss1997/blob/main/assets/1725312784523.jfif)
 
 
 I'm **Sreehari S.**, a passionate Data Analyst with an array of skills in **SQL, MS Excel, Python, Power BI, Tableau**
